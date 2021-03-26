@@ -1,7 +1,7 @@
 # tcp-ip-hot-blood
 열혈 TCP/IP 소켓 프로그래밍
 
-![book-cover](/assets/book-cover.png)
+![book-cover](/assets/book-cover.jpg)
 
 
 ### 진행방식

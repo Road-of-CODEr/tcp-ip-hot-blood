@@ -1,8 +1,8 @@
 # tcp-ip-hot-blood
+
 열혈 TCP/IP 소켓 프로그래밍
 
 ![book-cover](/assets/book-cover.jpg)
-
 
 ### 진행방식
 
@@ -11,5 +11,7 @@
   - 이 레파지토리에 간략히 저장 및 회고
 
 ### 진행상황
-- 네트워크 프로그래밍의 시작
-  - [네트워크 프로그래밍과 소켓의 이해](part1/chapter1.md)
+
+- PART 1. 네트워크 프로그래밍의 시작
+  1. [네트워크 프로그래밍과 소켓의 이해](part1/chapter1.md)
+  2. [소켓의 타입과 프로토콜의 설정](part1/chapter2.md)

@@ -8,9 +8,7 @@
 
   - 네트워크 주소 + 호스트 주소
   - 클래스 
-    - 첫 바이트 범위 A: 0~127, B:128~191, C: 192~223
-
-  ![image-20210404232053251](C:\Users\Minjae\AppData\Roaming\Typora\typora-user-images\image-20210404232053251.png)
+    - 첫 바이트 범위 A: 0-127, B:128-191, C: 192-223
 
 - IPv6: 16바이트 주소체계
 

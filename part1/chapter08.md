@@ -21,7 +21,7 @@ struct hostent * gethostbyname(const char * hostname);
 
 
 ### MORE
+- [DNS query 과정](https://www.cloudflare.com/ko-kr/learning/dns/what-is-dns/)
 - ARP
 - Routing Protocol: RIP, OSPF, BGP
 - Longest prefix match
-

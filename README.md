@@ -21,3 +21,5 @@
   6. [UDP 기반 서버/클라이언트](part1/chapter06.md)
   7. [소켓의 우아한 연결종료](part1/chapter07.md)
   8. [도메인 이름과 인터넷 주소](part1/chapter08.md)
+  9. [소켓의 다양한 옵션](part1/chapter09.pptx)
+  10. [멀티프로세스 기반의 서버구현](part1/chapter10.md)

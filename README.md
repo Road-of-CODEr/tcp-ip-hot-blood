@@ -19,3 +19,4 @@
   4. [TCP 기반 서버/클라이언트 1](part1/chapter04.md)
   5. [TCP 기반 서버/클라이언트 2](part1/chapter05.pptx)
   6. [UDP 기반 서비/클라이언트](part1/chapter06.md)
+  12. [IO 멀티플렉싱(IO Multiplexing)](part1/chapter12.md)

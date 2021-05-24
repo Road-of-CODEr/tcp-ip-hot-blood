@@ -8,7 +8,7 @@ ssize_t send(int sockfd, const void * buf, size_t nbytes, int flags);
 // 성공 시 전송된 바이트 수, 실패시 -1
 ```
 
-> - socked - 데이터 전송 대상과의 연결을 의미하는 소켓읠 파일 디스크립터 전달
+> - sockfd - 데이터 전송 대상과의 연결을 의미하는 소켓읠 파일 디스크립터 전달
 > - buf - 전송할 데이터를 저장하고 있는 버퍼의 주소 값 전달
 > - nbytes - 전송할 바이트 수 전달
 > - flags - 데이터 전송시 적용할 다양한 옵션 정보 전달
@@ -58,7 +58,7 @@ int main(int argc, char *argv[])
   // 중략 ...
 
   write(sock, "123", strlen("123"));
-	send(sock ,"4", strlen("4"), MSG_OOB);
+  send(sock ,"4", strlen("4"), MSG_OOB);
   write(sock, "567", strlen("567"));
   send(sock, "890", strlen("890"), MSG_OOB);
   close(sock);
@@ -200,7 +200,7 @@ void error_handling(char *message)
 
 
 
-## read & writev
+## readv & writev
 
 > 데이터를 모아서 전송, 수신
 

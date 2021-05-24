@@ -26,4 +26,5 @@
 10. [멀티프로세스 기반의 서버구현](part1/chapter10.md)
 11. [Chapter 11. 프로세스간 통신](part1/chapter11.md)
 12. [IO 멀티플렉싱(IO Multiplexing)](part1/chapter12.md)
-13. [멀티캐스트 & 브로드캐스트](part1/chapter14.md)
+13. [다양한 입출력 함수들](part1/chapter13.md)
+14. [멀티캐스트 & 브로드캐스트](part1/chapter14.md)
